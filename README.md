@@ -1,2 +1,2 @@
-# jubilee_austin
-Skillcrush 101 - Jubilee Austin project
+# jubilee_austen
+Skillcrush 101 - Jubilee Austen project
